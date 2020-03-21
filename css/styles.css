@@ -40,6 +40,7 @@ nav li{
 .container-2{
   position: relative;
   height: 1013px;
+  width: 100%;
 }
 
 .heading{
@@ -70,6 +71,7 @@ h2{
 .container-3{
   width: 100%;
   background-color: #393e46;
+  width: 100%;
 }
 
 .music{
@@ -220,6 +222,7 @@ width:107px;
 
 .container-5{
   position: relative;
+  width: 100%;
 }
 
 .container-5-head{
@@ -265,6 +268,7 @@ width:107px;
 
 .container-6{
   padding-bottom: 100px;
+  width: 100%;
 }
 
 .container-7{
@@ -273,6 +277,7 @@ width:107px;
   padding: 0 3rem;
   padding-left: 161.6px;
   padding-right: 161.6px;
+  width: 100%;
 
 }
 
